@@ -55,7 +55,8 @@ GitHub – Version control & portfolio showcase
 
 👉 Add your dashboard image here:
 
-![Dashboard](./PowerBI/Customer_Data_Analysis_Dashboard.png)
+![Dashboard](<img width="1156" height="650" alt="Screenshot 2025-12-11 151653" src="https://github.com/user-attachments/assets/9673f694-0182-4792-b321-8d43b311d754" />
+)
 
 The dashboard includes:
 
@@ -137,14 +138,14 @@ Use customer segmentation for personalized marketing
 
 📁 Project Files Included
 
-File/Folder	Description
+File/Folder	             Description
 
-Dataset	Raw dataset used for analysis
-SQL	All SQL queries used in the project
-PowerBI	Dashboard file + PNG image
-Report	Detailed project report (PDF)
-Presentation	Final project PPT
-README.md	GitHub documentation
+Dataset       	          Raw dataset used for analysis
+SQL                      All SQL queries used in the project
+PowerBI                  Dashboard file + PNG image
+Report	                  Detailed project report (PDF)
+Presentation	            Final project PPT
+README.md	               GitHub documentation
 
 
 
@@ -155,4 +156,4 @@ README.md	GitHub documentation
 Vijay Raghavendra
 📍 Karnataka, India
 💼 Aspiring Data Analyst
-📧 you can add your own email
+📧 vijayraghavendra46@gmail.com

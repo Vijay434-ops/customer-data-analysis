@@ -1,5 +1,6 @@
 # customer-data-analysis
-End-to-End Customer Data Analysis using SQL &amp; Power  BI
+End-to-End Customer Data Analysis using SQL &; Power  BI
+
 🛒 Customer Data Analysis – End-to-End Data Analytics Project
 
 This project focuses on analyzing customer shopping behavior using SQL and Power BI.
